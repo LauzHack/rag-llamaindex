@@ -1,7 +1,7 @@
 # Intro to RAG with LlamaIndex 
 Presentation: [Google Slide](https://docs.google.com/presentation/d/1rdoaHVmVTn5GYl2xXo83BB_A09MjC6SAkJfjbnlgd8U/edit?usp=sharing) | [PDF](./data/LlamaIndex_lauzhack.pdf)
 
-Recording: [Youtube](https://youtu.be/Uh_RuwzCZhg))
+Recording: [Youtube](https://youtu.be/Uh_RuwzCZhg)
 
 This workshop was first given by [Pierre-Loic Doulcet](https://www.linkedin.com/in/doulcet/) on May 8, 2024 as part of LauzHack's tech talk series.
 
